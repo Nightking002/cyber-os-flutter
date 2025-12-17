@@ -74,7 +74,7 @@ Follow these steps to run the project locally.
 
 1.  **Clone the repository**
     ```bash
-    git clone [https://github.com/egnake/cyber-os-flutter.git](https://github.com/egnake/cyber-os-flutter.git)
+    git clone https://github.com/egnake/cyber-os-flutter.git
     cd cyber-os-flutter
     ```
 
